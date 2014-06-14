@@ -1,0 +1,12 @@
+# History files
+*.Rhistory
+
+# R data files from past sessions
+*.Rdata
+*.Rd
+
+# .csv files
+*.csv
+
+# .txt files
+*.txt
